@@ -1,6 +1,6 @@
 # Cars For All - Complete Dealership Management Platform
 
-> **Note: This is a private repository for internal documentation purposes only.**
+> **Note: This is a public repository for external documentation purposes of the private repository.**
 
 ## 🚗 Project Overview
 
